@@ -1,0 +1,163 @@
+{
+  "student": {
+    "name": "Aarav Sharma",
+    "grade": "Grade 8",
+    "school": "Sunrise International School",
+    "city": "New Delhi, India",
+    "dob": "March 12, 2011",
+    "careerGoal": "Aerospace Engineer",
+    "email": "aarav.sharma@example.com",
+    "intro": "I am passionate about mathematics, coding, public speaking, and scientific innovation. Through GEMMA Clubs, I continuously develop my skills and participate in national and international competitions.",
+    "photo": "",
+    "stats": [
+      { "num": "92%", "label": "Overall Grade" },
+      { "num": "5",   "label": "Club Memberships" },
+      { "num": "5+",  "label": "Awards Won" }
+    ],
+    "interests": ["Mathematics","Coding","Robotics","Public Speaking","Chess","Science","Abacus","Reading"],
+    "aboutExtra": "Aarav is a dedicated learner who thrives in competitive environments. His curiosity spans from logical puzzles to building Scratch games, and he dreams of contributing to the space exploration programme one day."
+  },
+
+  "academics": {
+    "subjects": [
+      { "name": "Mathematics",      "grade": "A+", "tier": "a" },
+      { "name": "Science",          "grade": "A",  "tier": "a" },
+      { "name": "English",          "grade": "A",  "tier": "a" },
+      { "name": "Computer Science", "grade": "A+", "tier": "a" },
+      { "name": "Social Studies",   "grade": "B+", "tier": "b" }
+    ],
+    "overall": "92%"
+  },
+
+  "clubs": [
+    { "icon": "🧮", "name": "Abacus Club",         "points": ["2 years participation","State-level finalist","Mental math specialist"] },
+    { "icon": "📐", "name": "Mathematics Club",    "points": ["National olympiad participant","Problem-solving workshops"] },
+    { "icon": "💻", "name": "Coding Club",         "points": ["Built 5 Scratch projects","Participated in coding challenges"] },
+    { "icon": "🎤", "name": "Public Speaking Club","points": ["International speaker competition","Debate team member"] },
+    { "icon": "🔬", "name": "Science Club",        "points": ["Young Scientist Award finalist","Smart Irrigation project"] }
+  ],
+
+  "competitions": [
+    { "name": "International Abacus Olympiad",            "desc": "Global mental mathematics competition",  "result": "🥇 Gold Medal",      "type": "gold" },
+    { "name": "International Essay Writing Competition",  "desc": "Creative & academic writing",            "result": "🥈 Silver Medal",    "type": "silver" },
+    { "name": "Young Scientist Award",                    "desc": "Science innovation showcase",            "result": "Top 20 Finalist",    "type": "part" },
+    { "name": "International Student Speaker Competition","desc": "Public speaking & oratory",              "result": "🥉 Bronze Medal",    "type": "bronze" },
+    { "name": "International Painting Olympics",          "desc": "Visual arts competition",                "result": "Participation",      "type": "part" }
+  ],
+
+  "projects": [
+    {
+      "icon": "🌱", "type": "Science Project", "name": "Smart Irrigation System",
+      "desc": "Uses soil moisture sensors to automate plant watering. Won the School Innovation Award.",
+      "tags": ["Sensors","Innovation","Award Winner"]
+    },
+    {
+      "icon": "🎮", "type": "Scratch Game", "name": "Temple Adventure",
+      "desc": "Designed in Scratch with multiple levels, enemy AI, a scoring system, and original sprites.",
+      "tags": ["Scratch","Game Design"]
+    },
+    {
+      "icon": "🌍", "type": "Web Project", "name": "Climate Change Awareness Website",
+      "desc": "An educational site built with HTML & CSS raising awareness about climate change.",
+      "tags": ["HTML","CSS","Education"]
+    }
+  ],
+
+  "gallery": [
+    { "icon": "🏅", "label": "Gold Medal",      "sub": "Abacus Olympiad" },
+    { "icon": "📜", "label": "Certificate",     "sub": "Essay Competition" },
+    { "icon": "🥈", "label": "Silver Medal",    "sub": "Essay Writing" },
+    { "icon": "🏆", "label": "Award",           "sub": "School Innovation" },
+    { "icon": "🥉", "label": "Bronze Medal",    "sub": "Speaker Competition" },
+    { "icon": "📋", "label": "Participation",   "sub": "Painting Olympics" },
+    { "icon": "📜", "label": "Certificate",     "sub": "Abacus Club — 2 Years" },
+    { "icon": "🌟", "label": "Finalist",        "sub": "Young Scientist Award" }
+  ],
+
+  "skills": [
+    {
+      "group": "Academic Skills",
+      "items": [
+        { "name": "Mental Math",      "level": "Expert",      "pct": 95 },
+        { "name": "Logical Reasoning","level": "Advanced",    "pct": 90 },
+        { "name": "Problem Solving",  "level": "Advanced",    "pct": 88 }
+      ]
+    },
+    {
+      "group": "Technical Skills",
+      "items": [
+        { "name": "Scratch Programming","level": "Advanced",    "pct": 85 },
+        { "name": "HTML & CSS",         "level": "Intermediate","pct": 70 },
+        { "name": "Canva",              "level": "Proficient",  "pct": 80 },
+        { "name": "PowerPoint",         "level": "Proficient",  "pct": 82 }
+      ]
+    },
+    {
+      "group": "Soft Skills",
+      "items": [
+        { "name": "Leadership",      "level": "Strong",  "pct": 88 },
+        { "name": "Teamwork",        "level": "Strong",  "pct": 92 },
+        { "name": "Public Speaking", "level": "Advanced","pct": 86 },
+        { "name": "Creativity",      "level": "Advanced","pct": 90 }
+      ]
+    }
+  ],
+
+  "blog": [
+    {
+      "cat": "Mathematics · Learning",
+      "title": "How Abacus Improved My Mental Math Skills",
+      "excerpt": "When I first joined the Abacus Club, I could barely multiply two-digit numbers in my head. After two years of daily practice with the soroban, I can now solve complex calculations faster than a calculator. Here's how it changed the way I think about numbers…",
+      "date": "June 2025", "readTime": "5 min read"
+    },
+    {
+      "cat": "Public Speaking · Experience",
+      "title": "My Experience at the International Student Speaker Competition",
+      "excerpt": "Standing on stage in front of 300 people from 24 countries was terrifying — but it was also the most exhilarating moment of my life. In this post I share how I prepared my speech, the nerves I managed, and what I learned about confidence…",
+      "date": "April 2025", "readTime": "6 min read"
+    },
+    {
+      "cat": "Technology · Future",
+      "title": "Why Coding is Important for Future Careers",
+      "excerpt": "Everyone tells students to 'learn to code,' but nobody explains why. After building three projects in Scratch and one in HTML, I have a clearer picture. Coding isn't just about writing instructions — it's about breaking big problems into small, solvable ones…",
+      "date": "February 2025", "readTime": "4 min read"
+    }
+  ],
+
+  "testimonials": [
+    {
+      "quote": "Aarav consistently demonstrates curiosity, discipline, and leadership in every activity he undertakes.",
+      "from": "Mrs. Priya Nair",
+      "role": "Class Teacher · Sunrise International School"
+    },
+    {
+      "quote": "The GEMMA Clubs have significantly improved his confidence and problem-solving abilities. We are incredibly proud of his growth.",
+      "from": "Mr. & Mrs. Sharma",
+      "role": "Parents"
+    }
+  ],
+
+  "contact": {
+    "intro": "Have a question, collaboration idea, or just want to say hello? Feel free to reach out!",
+    "email": "aarav.sharma@example.com",
+    "school": "Sunrise International School, New Delhi",
+    "gradeNote": "Grade 8 · GEMMA Clubs Member",
+    "social": [
+      { "icon": "🔗", "label": "LinkedIn", "href": "#" },
+      { "icon": "🐙", "label": "GitHub",   "href": "#" },
+      { "icon": "✉️", "label": "Email",    "href": "#" }
+    ]
+  },
+
+  "nav": [
+    { "href": "#about",        "label": "About" },
+    { "href": "#academics",    "label": "Academics" },
+    { "href": "#clubs",        "label": "Clubs" },
+    { "href": "#competitions", "label": "Awards" },
+    { "href": "#projects",     "label": "Projects" },
+    { "href": "#gallery",      "label": "Gallery" },
+    { "href": "#skills",       "label": "Skills" },
+    { "href": "#blog",         "label": "Blog" },
+    { "href": "#contact",      "label": "Contact" }
+  ]
+}
